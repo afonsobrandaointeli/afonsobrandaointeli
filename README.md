@@ -20,7 +20,7 @@ Olá! Sou **Afonso Lelis**, um engenheiro com uma ampla gama de experiências em
 - **📍 Localização:** São Paulo, Brasil
 - **📱 Telefone:** +55 11 97810-5781
 - **✉️ Email:** [afonso.brandao@prof.inteli.edu.br](mailto:afonso.brandao@prof.inteli.edu.br)
-- **🔗 LinkedIn:** [afonsobrandaointeli](https://www.linkedin.com/in/afonsobrandaointeli)
+- **🔗 LinkedIn:** [afonsobrandaointeli](https://www.linkedin.com/in/afonsolelis)
 
 ---
 
