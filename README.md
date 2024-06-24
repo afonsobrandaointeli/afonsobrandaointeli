@@ -6,6 +6,9 @@ Olá! Sou **Afonso Lelis**, um engenheiro com uma ampla gama de experiências em
 
 ## 🚀 Habilidades Principais
 
+[![card](https://github-readme-stats.vercel.app/api?username=afonsobrandaointeli&theme=dark&show_icons=true)](https://github.com/afonsolelis/)
+[![afonsolelis](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsobrandaointeli&hide=html&layout=compact&theme=dark)](https://github.com/afonsolelis/)
+
 - **Git**
 - **Heroku**
 - **Ruby**
